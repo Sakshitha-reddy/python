@@ -1,7 +1,5 @@
-age=int(input("enter your age"))
-if(age>=18):
-    print("you are eligible")
-elif(0<=age<18):
-    print("you are not eligible")
-else:
-    print("invalid input")
+num1=int(input("enter num1:"))
+# num2=int(input("enter num2:"))
+# num3=int(input("enter num3:"))
+# num4=int(input("enter num4:"))
+# print(max(num1,num2,num3,num4))
