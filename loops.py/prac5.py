@@ -4,4 +4,5 @@ i=0
 while i<len(tup):
     if(tup[i]==x):
         print("number is present in the tuple")
+        break
         i+=1
