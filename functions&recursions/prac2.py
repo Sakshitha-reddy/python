@@ -11,5 +11,3 @@ def print_list(list):
 print(list)
 
 
-
-     
