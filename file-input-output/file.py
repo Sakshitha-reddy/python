@@ -1,4 +1,4 @@
-f=open("demo.txt","r")
+f=open("file-input-output/demo.txt","r")
 data=f.read()
 print(data)
 print(type(data))
